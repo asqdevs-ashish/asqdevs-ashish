@@ -1,16 +1,49 @@
-## Hi there 👋
+ASHISH KUMAR
 
-<!--
-**asqdevs-ashish/asqdevs-ashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Full-Stack Engineer
+Building SaaS, AI products & cross-platform apps.
 
-Here are some ideas to get you started:
+[Portfolio] [[LinkedIn](https://www.linkedin.com/in/ashish-pathak-968632400/)] [[X](https://x.com/ashish_dev404)] [YouTube]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ABOUT ME
+
+I build production-focused web, mobile and AI applications
+for startups and businesses.
+
+WHAT I BUILD
+
+→ AI SaaS
+→ Full-Stack Web Apps
+→ Cross-Platform Mobile Apps
+→ AI Agents & RAG Systems
+→ APIs & Backend Systems
+→ AWS Deployment & CI/CD
+
+TECH STACK
+
+Frontend
+Next.js | React | TypeScript | Tailwind
+
+Backend
+Node.js | Express | PostgreSQL | MongoDB | Prisma
+
+AI
+OpenAI | Gemini | Groq | LangChain | LangGraph | RAG
+
+Cloud
+AWS | Docker | CI/CD
+
+MOBILE
+React Native | Expo
+
+
+CURRENTLY
+
+Building products.
+Learning.
+Shipping.
+Helping startups turn ideas into software.
+
+LET'S BUILD
+
+[+91 7404296309]
