@@ -3,7 +3,7 @@ ASHISH KUMAR
 AI & Full-Stack Engineer
 Building SaaS, AI products & cross-platform apps.
 
-[Portfolio] [[LinkedIn](https://www.linkedin.com/in/ashish-pathak-968632400/)] [[X](https://x.com/asqdevsAshish)] [YouTube]
+[Portfolio] [[LinkedIn](https://www.linkedin.com/in/ashish-pathak-968632400/)] [[X](https://x.com/asqdevsAshish)] [[YouTube](https://www.youtube.com/@ashishkr.builds)]
 
 ABOUT ME
 
